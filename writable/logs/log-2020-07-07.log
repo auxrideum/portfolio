@@ -1,0 +1,457 @@
+CRITICAL - 2020-07-07 18:56:44 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:56:58 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:57:01 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:57:25 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:57:25 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:57:28 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:57:59 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:58:20 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog/index')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog/index')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:58:27 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:58:30 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:58:33 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:58:44 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:58:45 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('Blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 18:59:36 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:00:10 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:00:10 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:00:23 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:00:24 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:00:24 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:00:37 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:00:43 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:00:44 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:00:44 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:01:06 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:01:24 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:01:24 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:01:26 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(575): include_once()
+#1 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('blog')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('blog')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-07 19:14:14 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-07 19:14:39 --> Invalid file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asd.php')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('asd', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Home.php(7): view('asd')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-07 19:15:15 --> Invalid file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asd.php')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('asd', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Home.php(7): view('asd')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-07 19:15:15 --> Invalid file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asd.php')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('asd', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Home.php(7): view('asd')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-07 19:15:15 --> Invalid file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asd.php')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('asd', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Home.php(7): view('asd')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-07 19:31:59 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-07 19:57:55 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-07 20:15:10 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-07 20:15:17 --> Invalid file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Home.php(7): view('index')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-07 20:15:17 --> Invalid file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Home.php(7): view('index')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-07 20:15:20 --> Invalid file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Home.php(7): view('index')
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-07 20:29:53 --> Object of class CodeIgniter\Validation\Validation could not be converted to string
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:30:15 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-07 20:30:40 --> Object of class CodeIgniter\Validation\Validation could not be converted to string
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:50:36 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-07 20:54:01 --> Class 'App\Controllers\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:54:21 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:54:23 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:55:19 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:56:26 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:56:27 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:56:28 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:56:58 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:59:25 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:59:54 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 20:59:55 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 21:00:00 --> syntax error, unexpected ';', expecting identifier (T_STRING)
+#0 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\portfolio\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cont...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cont...')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Home.php(31): spl_autoload_call('App\\Models\\Cont...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-07 21:00:04 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 21:02:21 --> Class 'App\Models\UserModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 21:02:29 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 21:02:30 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-07 21:02:40 --> Class 'App\Models\ContactModels' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Home->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

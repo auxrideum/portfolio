@@ -1,0 +1,355 @@
+CRITICAL - 2020-07-08 10:46:42 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('pages/home')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:46:59 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('home')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:47:01 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('home')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:47:17 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('Pages::index')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:47:18 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('Pages::index')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:48:03 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('Pages/index')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:48:04 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('Pages/index')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:48:44 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('blog')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:48:50 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('pages/blog')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:49:06 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('view/blog')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:49:06 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('view/blog')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:49:26 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('http://localhos...')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:49:27 --> {0, string} route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\portfolio\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(813): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(36): redirect('http://localhos...')
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Controllers\Pages->handleBlogRequest()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->view('contattami')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 10:52:32 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 10:52:34 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 10:52:41 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 10:52:50 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 10:53:19 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 10:53:32 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 10:59:55 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 10:59:57 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 10:59:59 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:04:21 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:08:33 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:10:23 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:10:31 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:22:52 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:26:32 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:28:35 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:29:04 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:29:17 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:29:25 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:29:33 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:29:56 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:29:59 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:31:09 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 11:31:19 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 12:18:49 --> Array to string conversion
+#0 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->home()
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-08 12:23:39 --> Undefined variable: news
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\home.php(120): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 120, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/home', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(14): view('pages/home', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->home()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-08 12:27:16 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 12:28:27 --> Call to undefined method App\Controllers\Home::show_404()
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(950): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(324): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-07-08 20:32:44 --> Too few arguments to function App\Controllers\Blog::view(), 0 passed in C:\xampp\htdocs\portfolio\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-08 20:45:11 --> Undefined variable: page
+#0 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('my-card-asd%27')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-08 23:10:31 --> Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+
+#0 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\portfolio\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\portfolio\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\portfolio\app\Models\BlogModel.php(12): CodeIgniter\Model->findAll(5)
+#5 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(11): App\Models\BlogModel->getPosts(false, 5)
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->home()
+#7 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-08 23:10:34 --> Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+
+#0 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\portfolio\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\portfolio\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\portfolio\app\Models\BlogModel.php(12): CodeIgniter\Model->findAll(5)
+#5 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(11): App\Models\BlogModel->getPosts(false, 5)
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->home()
+#7 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-08 23:10:34 --> Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+
+#0 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\portfolio\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\portfolio\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\portfolio\app\Models\BlogModel.php(12): CodeIgniter\Model->findAll(5)
+#5 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(11): App\Models\BlogModel->getPosts(false, 5)
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->home()
+#7 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-08 23:10:57 --> Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+
+#0 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\portfolio\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\portfolio\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\portfolio\app\Models\BlogModel.php(12): CodeIgniter\Model->findAll(30)
+#5 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(21): App\Models\BlogModel->getPosts(false, 30)
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->blog()
+#7 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-07-08 23:10:58 --> Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+
+#0 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\portfolio\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\portfolio\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\portfolio\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\portfolio\app\Models\BlogModel.php(12): CodeIgniter\Model->findAll(5)
+#5 C:\xampp\htdocs\portfolio\app\Controllers\Pages.php(11): App\Models\BlogModel->getPosts(false, 5)
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->home()
+#7 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
