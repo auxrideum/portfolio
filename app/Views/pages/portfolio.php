@@ -29,102 +29,18 @@
 		<div class="fh5co-narrow-content">
 			<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Portfolio</h2>
 			<div class="row row-bottom-padded-md">
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-1.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+				<?php if (! empty($projects) && is_array($projects)) : ?>
+					<?php foreach ($projects as $project): ?>
+						<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
+							<a href="#" class="img-responsive work image-popup" style="background-image: url(<?php echo $project['img_url']; ?>);">
+								<div class="desc">
+									<h3><?php echo $project['name']; ?></h3>
+									<span><?php echo $project['category']; ?></span>
+								</div>
+							</a>
 						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-2.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Brading</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-3.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-4.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-5.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Brading</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-6.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-1.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-2.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Brading</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-1.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-2.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Brading</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-3.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-					<a href="#" class="work image-popup" style="background-image: url(images/img-4.jpg);">
-						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
-						</div>
-					</a>
-				</div>
+					<?php endforeach; ?>
+				<?php endif; ?>
 			</div>
 		</div>
 	</div>

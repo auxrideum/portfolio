@@ -1,6 +1,8 @@
 <?php namespace App\Controllers;
 
 use App\Models\BlogModel;
+use App\Models\PortfolioModel;
+
 use CodeIgniter\Controller;
 
 class Pages extends Controller
@@ -27,8 +29,11 @@ class Pages extends Controller
 
     public function portfolio()
     {
+        $model = new PortfolioModel();
+        $data['projects'] = $model->getProjects();
+
         echo view('templates/header');
-        echo view('pages/portfolio');
+        echo view('pages/portfolio', $data);
         echo view('templates/footer');
     }
 
