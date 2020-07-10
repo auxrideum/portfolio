@@ -7,13 +7,17 @@ class Blog extends Controller
 {
     public function view($slug)
     {
-        $model = new BlogModel();
-        $post = $model->where(['slug' => $slug])->first();
+        $data = [];
 
-        if(!$post) {
+        $model = new BlogModel();
+        $data['post'] = $model->where(['slug' => $slug])->first();
+
+        if(!$data['post']) {
             throw \CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound();
         }
 
-        print_r($post);
+        echo view('templates/header');
+        echo view('pages/blog/view', $data);
+        echo view('templates/footer');
     }
 }

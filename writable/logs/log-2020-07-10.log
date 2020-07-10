@@ -1,0 +1,176 @@
+CRITICAL - 2020-07-10 16:11:00 --> Undefined offset: 0
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:11:04 --> Undefined offset: 1
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:11:47 --> Undefined offset: 0
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:11:47 --> Undefined offset: 0
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:11:48 --> Undefined offset: 0
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:11:56 --> Undefined variable: data
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:12:01 --> Array to string conversion
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:12:07 --> Array and string offset access syntax with curly braces is deprecated
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(246): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Array and strin...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include()
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:12:13 --> Undefined offset: 0
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:12:16 --> Undefined offset: 1
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:12:19 --> Undefined offset: 1
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:12:19 --> Undefined offset: 1
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:12:20 --> Undefined offset: 1
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:12:23 --> Undefined offset: 0
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-10 16:28:10 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\portfolio\app\Views\pages\blog\view.php(33): date('F j, Y alle g:i...', '2020-12-08 20:2...')
+#2 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/blog/view', Array, true)
+#4 C:\xampp\htdocs\portfolio\app\Controllers\Blog.php(20): view('pages/blog/view', Array)
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Blog->view('attivare-window...')
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#7 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-10 16:57:06 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-10 16:57:24 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-10 16:57:25 --> Class 'App\Models\ContactModel' not found
+#0 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Pages->contattami()
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-10 17:38:19 --> Undefined variable: session
+#0 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19, Array)
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->login()
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

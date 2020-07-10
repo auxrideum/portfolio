@@ -1,6 +1,7 @@
 <?php namespace App\Controllers;
 
 use App\Models\BlogModel;
+use App\Models\ContactModel;
 use App\Models\PortfolioModel;
 
 use CodeIgniter\Controller;
@@ -57,6 +58,18 @@ class Pages extends Controller
                 $data['validation'] = $this->validator;
             }
             else {
+
+                $model = new ContactModel();
+
+                $cols = [
+                    'nome' => $this->request->getVar('nome', FILTER_SANITIZE_STRING),
+					'email' => $this->request->getVar('email', FILTER_SANITIZE_EMAIL),
+					'numero' => $this->request->getVar('numero'),
+					'messaggio' => $this->request->getVar('messaggio', FILTER_SANITIZE_STRING),
+                ];
+                
+                $model->insert($cols);
+
                 $data['success'] = true;
             }
         }

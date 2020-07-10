@@ -2,8 +2,6 @@
 
 	'use strict';
 
-
-
 	var isMobile = {
 		Android: function () {
 			return navigator.userAgent.match(/Android/i);
@@ -139,12 +137,23 @@
 
 	};
 
+	var magnificPopup = function() {
+		$('.popup-link').magnificPopup({
+			type: 'image',
+			gallery:{
+				enabled:true
+			},
+			
+		});
+	};
+
 	$(function () {
 		fullHeight();
 		contentWayPoint();
 		burgerMenu();
 		mobileMenuOutsideClick();
 		sliderMain();
+		magnificPopup();
 	});
 
 

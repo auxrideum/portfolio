@@ -2,7 +2,7 @@
 
 use CodeIgniter\Model;
 
-class UserModel extends Model {
+class ContactModel extends Model {
     protected $table = 'contact';
     protected $allowedFields = ['nome', 'email', 'numero', 'messaggio'];
 

@@ -27,18 +27,17 @@
 
 		<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
 		
-		<link rel="stylesheet" href="css/animate.css">
-		<link rel="stylesheet" href="css/icomoon.css">
-		<link rel="stylesheet" href="css/bootstrap.css">
-		<link rel="stylesheet" href="css/flexslider.css">
-		<link rel="stylesheet" href="css/style.css">
-
+		<link rel="stylesheet" href="<?php echo base_url('css/animate.css'); ?>">
+		<link rel="stylesheet" href="<?php echo base_url('css/bootstrap.css'); ?>">
+		<link rel="stylesheet" href="<?php echo base_url('css/flexslider.css'); ?>">
+		<link rel="stylesheet" href="<?php echo base_url('css/style.css'); ?>">
+		
 		<!-- FontAwesome -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
         integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 		<!-- Modernizr JS -->
-		<script src="js/modernizr-2.6.2.min.js"></script>
+		<script src="<?php echo base_url('js/modernizr-2.6.2.min.js'); ?>"></script>
 
 	</head>
 	<body>

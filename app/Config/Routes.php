@@ -31,20 +31,19 @@ $routes->setAutoRoute(true);
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 
+// Admin
+$routes->match(['get', 'post'], '/login', 'Admin::login');
+
 // Blog
 $routes->get('/blog/(:any)', 'Blog::view/$1');
 
+// Portfolio
 $routes->get('/', 'Pages::home');
 $routes->get('/home', 'Pages::home');
 $routes->get('/blog', 'Pages::blog');
 $routes->get('/chi-sono', 'Pages::chisono');
 $routes->match(['get', 'post'], '/contattami', 'Pages::contattami');
 $routes->get('/portfolio', 'Pages::portfolio');
-
-//$routes->get('/blog', 'Home::blog');
-//$routes->get('/chi-sono', 'Home::chi_sono');
-//$routes->match(['get', 'post'], '/contattami', 'Home::contattami');
-//$routes->get('/portfolio', 'Home::portfolio');
 
 /**
  * --------------------------------------------------------------------
