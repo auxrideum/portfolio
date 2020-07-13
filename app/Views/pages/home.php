@@ -13,15 +13,7 @@
 			</ul>
 		</nav>
 
-		<div class="fh5co-footer">
-			<p><small>&copy; 2020 All Rights Reserved.</small></p>
-			<ul>
-				<li><a href="https://twitter.com/auxrideum" target="_blank"><i class="fa fa-twitter"></i></a></li>
-				<li><a href="https://www.linkedin.com/in/gabriele-portente-24504919b/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-				<li><a href="https://github.com/auxrideum" target="_blank"><i class="fa fa-github"></i></a></li>
-				<li><a href="mailto:me@gabrieleportente.it"><i class="fa fa-envelope"></i></a></li>
-			</ul>
-		</div>
+		<?php echo view('templates/social'); ?>
 
 	</aside>
 	<div id="fh5co-main">
@@ -34,9 +26,11 @@
 							<div class="row">
 								<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
 									<div class="slider-text-inner">
-										<h1>Lorem <strong></strong> ipsum dolor sit amet.</h1>
+										<!--
+										<h1>Duis <strong></strong> blandit leo quis eleifend efficitur.</h1>
 										<h2>Cras efficitur tempus ex, ac commodo tortor pretium ac. Suspendisse nec volutpat augue.</h2>
 										<p><a class="btn btn-primary btn-learn">Learn More<i class="icon-arrow-right3"></i></a></p>
+										-->
 									</div>
 								</div>
 							</div>
@@ -48,9 +42,11 @@
 							<div class="row">
 								<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
 									<div class="slider-text-inner">
+										<!--
 										<h1>Duis <strong></strong> blandit leo quis eleifend efficitur.</h1>
 										<h2>Cras efficitur tempus ex, ac commodo tortor pretium ac. Suspendisse nec volutpat augue.</h2>
 										<p><a class="btn btn-primary btn-learn">Learn More<i class="icon-arrow-right3"></i></a></p>
+										-->
 									</div>
 								</div>
 							</div>
@@ -62,9 +58,11 @@
 							<div class="row">
 								<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
 									<div class="slider-text-inner">
-										<h1>Etiam <strong></strong> ac eros iaculis, dictum neque volutpat.</h1>
+										<!--
+										<h1>Duis <strong></strong> blandit leo quis eleifend efficitur.</h1>
 										<h2>Cras efficitur tempus ex, ac commodo tortor pretium ac. Suspendisse nec volutpat augue.</h2>
 										<p><a class="btn btn-primary btn-learn">Learn More<i class="icon-arrow-right3"></i></a></p>
+										-->
 									</div>
 								</div>
 							</div>
@@ -113,37 +111,37 @@
 				</div>
 			</div>
 		</div>
+		<?php if (! empty($posts) && is_array($posts)) : ?>
 		<div class="fh5co-narrow-content">
 			<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Ultimi articoli</h2>
 			<div class="row row-bottom-padded-md">
-				<?php if (! empty($posts) && is_array($posts)) : ?>
-					<?php foreach ($posts as $post): ?>
-						<div class="col-md-3 col-sm-6 col-padding animate-box" data-animate-effect="fadeInLeft">
-							<div class="blog-entry">
-								<img src="<?php echo $post['img_url']; ?>" class="img-responsive">
-								<div class="desc">
-									<h3>
-										<a href="<?php echo 'blog/'.$post['slug'];?>"><?php echo $post['titolo']; ?></a>
-									</h3>
+				<?php foreach ($posts as $post): ?>
+					<div class="col-md-3 col-sm-6 col-padding animate-box" data-animate-effect="fadeInLeft">
+						<div class="blog-entry">
+							<img src="<?php echo $post['img_url']; ?>" class="img-responsive">
+							<div class="desc">
+								<h3>
+									<a href="<?php echo 'blog/'.$post['slug'];?>"><?php echo $post['titolo']; ?></a>
+								</h3>
 
-									<span>
-										<small>da <?php echo $post['creatore']; ?></small> / <small> <?php echo $post['categoria']; ?> </small> / <small> <i class="icon-comment"></i> 14</small>
-									</span>
+								<span>
+									<small>da <?php echo $post['creatore']; ?></small> / <small> <?php echo $post['categoria']; ?> </small> / <small> <i class="icon-comment"></i> 14</small>
+								</span>
 
-									<p>
-										<?php
-										$truncated = (strlen($post['testo']) > 80) ? substr($post['testo'], 0, 80) . '...' : $post['testo'];
-										echo $truncated;
-										?>
-									</p>
-									<a href="<?php echo 'blog/'.$post['slug'];?>" class="lead">Leggi <i class="icon-arrow-right3"></i></a>
-								</div>
+								<p>
+									<?php
+									$truncated = (strlen($post['testo']) > 80) ? substr($post['testo'], 0, 80) . '...' : $post['testo'];
+									echo $truncated;
+									?>
+								</p>
+								<a href="<?php echo 'blog/'.$post['slug'];?>" class="lead">Leggi <i class="icon-arrow-right3"></i></a>
 							</div>
 						</div>
-					<?php endforeach; ?>
-				<?php endif; ?>
+					</div>
+				<?php endforeach; ?>
 			</div>
 		</div>
+		<?php endif; ?>
 
 		<div id="get-in-touch">
 			<div class="fh5co-narrow-content">

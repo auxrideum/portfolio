@@ -6,4 +6,7 @@ class ContactModel extends Model {
     protected $table = 'contact';
     protected $allowedFields = ['nome', 'email', 'numero', 'messaggio'];
 
+    public function getContacts() {
+        return $this->findAll();
+    } 
 }

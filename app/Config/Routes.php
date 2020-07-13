@@ -32,7 +32,20 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 
 // Admin
+$routes->match(['get', 'post'], '/admin/login', 'Admin::login');
+$routes->match(['get', 'post'], '/admin/contacts', 'Admin::contacts');
+$routes->match(['get', 'post'], '/admin/blog', 'Admin::blog');
+$routes->match(['get', 'post'], '/admin/analytics', 'Admin::analytics');
+$routes->match(['get', 'post'], '/admin/projects', 'Admin::projects');
+
+/*
+$routes->match(['get', 'post'], '/admin/dashboard', 'Admin::index');
+$routes->match(['get', 'post'], '/admin/blog', 'Admin::blog');
+$routes->match(['get', 'post'], '/admin/analytics', 'Admin::analytics');
+$routes->match(['get', 'post'], '/admin/projects', 'Admin::projects');
 $routes->match(['get', 'post'], '/login', 'Admin::login');
+*/
+
 
 // Blog
 $routes->get('/blog/(:any)', 'Blog::view/$1');

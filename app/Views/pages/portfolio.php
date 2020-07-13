@@ -13,15 +13,7 @@
 			</ul>
 		</nav>
 
-		<div class="fh5co-footer">
-			<p><small>&copy; 2020 All Rights Reserved.</small></p>
-			<ul>
-				<li><a href="https://twitter.com/auxrideum" target="_blank"><i class="fa fa-twitter"></i></a></li>
-				<li><a href="https://www.linkedin.com/in/gabriele-portente-24504919b/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-				<li><a href="https://github.com/auxrideum" target="_blank"><i class="fa fa-github"></i></a></li>
-				<li><a href="mailto:me@gabrieleportente.it"><i class="fa fa-envelope"></i></a></li>
-			</ul>
-		</div>
+		<?php echo view('templates/social'); ?>
 
 	</aside>
 
@@ -32,7 +24,7 @@
 				<?php if (! empty($projects) && is_array($projects)) : ?>
 					<?php foreach ($projects as $project): ?>
 						<div class="col-md-3 col-sm-6 col-padding text-center animate-box">
-							<a href="<?php echo $project['link']; ?>" class="img-responsive work image-popup" style="background-image: url(<?php echo $project['img_url']; ?>);">
+							<a href="<?php echo $project['link']; ?>" class="img-responsive work image-popup" style="background-size: cover; background-image: url(<?php echo $project['img_url']; ?>);">
 								<div class="desc">
 									<h3><?php echo $project['name']; ?></h3>
 									<span><?php echo $project['category']; ?></span>
@@ -40,7 +32,9 @@
 							</a>
 						</div>
 					<?php endforeach; ?>
-				<?php endif; ?>
+				<?php else: ?>
+					<p class="animate-box" data-animate-effect="fadeInLeft">Non ci sono lavori da mostrare</p>
+				<?php endif;?>
 			</div>
 		</div>
 	</div>

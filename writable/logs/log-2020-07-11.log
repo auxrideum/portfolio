@@ -1,0 +1,76 @@
+CRITICAL - 2020-07-11 18:53:25 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\xampp\htdocs\portfolio\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('admin/home')
+#1 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('admin/home')
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-11 19:32:56 --> Undefined variable: titolo
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\home.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 77, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/hom...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(63): view('pages/admin/hom...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->blog()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-11 19:33:03 --> Undefined variable: data
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\home.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 77, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/hom...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(63): view('pages/admin/hom...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->blog()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-11 19:33:04 --> Undefined variable: data
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\home.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 77, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/hom...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(63): view('pages/admin/hom...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->blog()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-11 19:33:16 --> Undefined variable: data
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\home.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 77, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/hom...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(55): view('pages/admin/hom...', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->home()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-11 19:33:48 --> Undefined variable: titolo
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\home.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 77, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/hom...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(67): view('pages/admin/hom...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->blog()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-11 23:06:22 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/.ph...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(55): view('pages/admin/', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-11 23:15:59 --> Undefined variable: contact
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\home.php(133): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 133, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/hom...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(71): view('pages/admin/hom...', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->blog()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

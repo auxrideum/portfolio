@@ -11,7 +11,7 @@ class Pages extends Controller
     public function home()
     {
         $model = new BlogModel();
-        $data['posts'] = $model->getPosts(false, 5);
+        $data['posts'] = $model->getPosts(false, 4);
 
         echo view('templates/header');
         echo view('pages/home', $data);

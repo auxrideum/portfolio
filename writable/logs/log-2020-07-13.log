@@ -1,0 +1,194 @@
+CRITICAL - 2020-07-13 15:49:09 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/hom...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/hom...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/hom...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 15:50:13 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/hom...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/hom...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/hom...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:03:58 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ';' or ','
+#0 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#1 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/ind...', Array)
+#2 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-13 16:04:11 --> Undefined variable: session
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/ind...', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-13 16:04:11 --> Undefined variable: session
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/ind...', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-13 16:04:18 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/ind...', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-13 16:04:18 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/ind...', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-13 16:04:19 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/ind...', Array)
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-13 16:05:28 --> Call to undefined function getVar()
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/ind...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:05:28 --> Call to undefined function getVar()
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/ind...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:05:29 --> Call to undefined function getVar()
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(56): view('pages/admin/ind...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:06:48 --> Call to undefined method CodeIgniter\View\View::session()
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(57): view('pages/admin/ind...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:25:44 --> Undefined variable: titolo
+#0 C:\xampp\htdocs\portfolio\app\Views\pages\admin\index.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\portfolio\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/ind...', Array, true)
+#3 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(54): view('pages/admin/ind...')
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-13 16:27:45 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/hom...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/hom...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(104): view('pages/admin/hom...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->projects()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:29:52 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/pro...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/pro...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(104): view('pages/admin/pro...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->projects()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:29:53 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/pro...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/pro...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(104): view('pages/admin/pro...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->projects()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:30:00 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/pro...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/pro...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(104): view('pages/admin/pro...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->projects()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:30:26 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/pro...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/pro...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(104): view('pages/admin/pro...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->projects()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:30:26 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/pro...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/pro...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(104): view('pages/admin/pro...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->projects()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:30:26 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/pro...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/pro...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(104): view('pages/admin/pro...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->projects()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-13 16:30:27 --> Non valido il file: {0}
+#0 C:\xampp\htdocs\portfolio\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/admin/pro...')
+#1 C:\xampp\htdocs\portfolio\system\Common.php(1087): CodeIgniter\View\View->render('pages/admin/pro...', Array, true)
+#2 C:\xampp\htdocs\portfolio\app\Controllers\Admin.php(104): view('pages/admin/pro...', Array)
+#3 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(914): App\Controllers\Admin->projects()
+#4 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\portfolio\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\portfolio\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

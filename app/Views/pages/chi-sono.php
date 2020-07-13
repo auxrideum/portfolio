@@ -13,15 +13,7 @@
 			</ul>
 		</nav>
 
-		<div class="fh5co-footer">
-			<p><small>&copy; 2020 All Rights Reserved.</small></p>
-			<ul>
-				<li><a href="https://twitter.com/auxrideum" target="_blank"><i class="fa fa-twitter"></i></a></li>
-				<li><a href="https://www.linkedin.com/in/gabriele-portente-24504919b/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-				<li><a href="https://github.com/auxrideum" target="_blank"><i class="fa fa-github"></i></a></li>
-				<li><a href="mailto:me@gabrieleportente.it"><i class="fa fa-envelope"></i></a></li>
-			</ul>
-		</div>
+		<?php echo view('templates/social'); ?>
 
 	</aside>
 
@@ -30,8 +22,8 @@
 			<div class="row row-bottom-padded-md">
 				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 					<h2 class="fh5co-heading">Chi sono</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Quisque sit amet efficitur nih. Interdum et malesuada fames ac ante ipsum primis in faucibus interda et malesuada parturient.</p>
-					<p>Quisque sit amet efficitur nih. Interdum et malesuada fames ac ante ipsum primis in faucibus interda et malesuada parturient.</p>
+					<p>Ciao! Mi chiamo <strong>Gabriele Portente</strong> e sono un Web Developer di <strong>Milano</strong>. Mi occupo dello sviluppo di siti web professionali utilizzando le migliori pratiche attuali.</p>
+					<p>Il mio obiettivo principale è quello di rendere <strong>semplici e intuitivi</strong> dei problemi complessi, al fine di garantire <strong>un'esperienza web moderna ed elegante</strong>.</p>
 				</div>
 			</div>
 		</div>

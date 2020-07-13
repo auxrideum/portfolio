@@ -137,23 +137,12 @@
 
 	};
 
-	var magnificPopup = function() {
-		$('.popup-link').magnificPopup({
-			type: 'image',
-			gallery:{
-				enabled:true
-			},
-			
-		});
-	};
-
 	$(function () {
 		fullHeight();
 		contentWayPoint();
 		burgerMenu();
 		mobileMenuOutsideClick();
 		sliderMain();
-		magnificPopup();
 	});
 
 
